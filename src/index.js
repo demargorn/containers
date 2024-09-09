@@ -1,2 +1,3 @@
-import './set';
-import './map';
+import './Set';
+import './Map';
+import './Settings';
